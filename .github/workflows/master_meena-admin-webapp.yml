@@ -33,5 +33,5 @@ jobs:
       with:
         app-name: 'meena-admin-webapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2529eb60a1724e42a072007b7b3d5a5b }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_06e7b0822b594b07b079a1c4b8f538a9 }}
         package: \published\
